@@ -1,5 +1,5 @@
 # My-Profolio
-![image] (jhlynn95.github.io_Mini-p_)
+![jhlynn95 github io_Mini-p_](https://user-images.githubusercontent.com/109389786/192451950-7224867f-ab8f-47db-b6b6-cc4327c1116e.png)
 
 # Challenge 2
 
