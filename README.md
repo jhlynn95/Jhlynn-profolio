@@ -1,5 +1,5 @@
 # My-Profolio
-![image]
+![image] (jhlynn95.github.io_Mini-p_)
 
 # Challenge 2
 
@@ -18,9 +18,9 @@
 * Media Screen and Hover options
 
 ## URL 
-* 
-* 
-
+* https://jhlynn95.github.io/Mini-p/
+* https://github.com/jhlynn95/Jhlynn-profolio
+git 
 ## Credit
 * Byron Brown-Ucr tutor who help me better understand the flex box and how "parents" "children" work together
 
