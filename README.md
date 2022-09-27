@@ -18,7 +18,7 @@
 * Media Screen and Hover options
 
 ## URL 
-* https://jhlynn95.github.io/Mini-p/
+* https://jhlynn95.github.io/Jhlynn-profolio/
 * https://github.com/jhlynn95/Jhlynn-profolio
 git 
 ## Credit
